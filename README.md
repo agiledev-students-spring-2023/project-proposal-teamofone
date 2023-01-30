@@ -1,4 +1,5 @@
 # Project Proposal
+
 ## Project title
 
 Albert Registration Assistant
@@ -23,7 +24,8 @@ Like Albert, this system will have a search page where the users can search for 
 5. Course prerequisites (e.g. CSCI-UA 102 WITH A GRADE OF C OR BETTER)
 6. Course fulfillment (e.g. CS major Core Requirements)
 7. Total credits (e.g. 4 credits)
-Note: 
+
+**Note:**
 1. All course information above can be found on Albert except for feature (3) and (6). However, due to different capitalization and formatting, some of the information are not clearly visible on the Albert page.
 2. Feature (4) course schedule (if chosen) will be reflected on the user’s personalized calendar page at its corresponding time block.
 3. Feature (3) on professor rating&comments will also provide a hyperlink to link to the corresponding page of this professor on NYU Rate my Professor website with more detailed comments.
