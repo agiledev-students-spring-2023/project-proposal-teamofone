@@ -37,7 +37,7 @@ Then on the personal page, the system will allow users to create their own cours
 ## Scope
 
 The building of the described system will include 4 steps in general:
-1. Retrieve data from the following platforms (requires web scraping technique or through this [Course System API] (https://anypoint.mulesoft.com/exchange/portals/nyu-0/aa8378b5-ce36-4c80-94a1-2e6042908e1a.central-it/course-sys-api/) offered by NYU)
+1. Retrieve data from the following platforms (requires web scraping technique or through this [Course System API](https://anypoint.mulesoft.com/exchange/portals/nyu-0/aa8378b5-ce36-4c80-94a1-2e6042908e1a.central-it/course-sys-api/) offered by NYU)
     1. Albert
     2. NYU Rate my professor
     3. NYU major bulletin
